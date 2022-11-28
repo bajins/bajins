@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>
-  <a href="https://github.com/jiankian/">
+  <a href="https://github.com/bajins/">
     <img  margin-top="-30px" width="55%" align="right" alt="jiankian's github stats" src="https://github-readme-stats.vercel.app/api?username=bajins&show_icons=true&hide_border=true" />
   </a>
 
