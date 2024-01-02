@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @bajins
-- 👀 I’m interested in Rust/Java/JavaScript/Golang/Python/C/C++/C#...
-- 🌱 I’m currently learning Rust/Java/JavaScript/Golang/Python/C/C++/C#...
-- ~~💞️ I’m looking to collaborate on ...~~
-- 📫 How to reach me [https://bajins.com](https://bajins.com)
+<!-- Intro -->
+<div align="center">
+  <h1>Hi there, I'm Bajins 👋</h1>
+  <h3><a href="https://bajins.com">See my site for more</a></h3>
+  <img src="https://komarev.com/ghpvc/?username=bajins&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/endpoint?url=https://wakatime.rainnny.club/api/compat/shields/v1/Rainnny/interval:30_days&label=Coding%20Time%20(30d)" alt="Coding Time (30 Days)"/>
+</div>
 
-<!---
-bajins/bajins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bajins&api_domain=wakatime.rainnny.club&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly%20Coding%20Stats&layout=compact" alt="Weekly Coding Stats"/>
 
 <p>
-  <a href="https://github.com/bajins/">
+  <a href="https://github.com/bajins">
     <img  margin-top="-30px" width="55%" align="right" alt="jiankian's github stats" src="https://github-readme-stats.vercel.app/api?username=bajins&show_icons=true&hide_border=true" />
   </a>
 
