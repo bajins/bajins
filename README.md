@@ -42,7 +42,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/arangodb/arangodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
+  <code><img width="10%" height="40px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
